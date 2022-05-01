@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+
+#FirebaseConfiguration
+/src/Credentials/rpag-b8590-firebase-adminsdk-i8kn2-39fbc15076.json
